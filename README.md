@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React.js and Node.js**
 
 - 📫 How to reach me **sohelshaikh30611@gamil.com**
 
