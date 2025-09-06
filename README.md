@@ -5,7 +5,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/@shaikhsohe40575" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikhsohe40575?logo=twitter&style=for-the-badge" alt="@shaikhsohe40575" /></a> </p>
-- Currently learning Python
 - 💬 Ask me about **Javascript, React.js and Node.js**
 
 - 📫 How to reach me **sohelshaikh30611@gamil.com**
